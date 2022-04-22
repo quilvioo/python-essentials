@@ -4,6 +4,10 @@
 
 - [Iterables, Generators, and yield](https://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do): iterables are stored in memory, while generators are iterables you can only iterate over once because they generate values. yield is like return but will return a generator. Handy for when you are generating a large list of numbers, you know you will only be using once.
 
+## Decorators
+
+- [Decorators in Python](https://www.geeksforgeeks.org/decorators-in-python/)
+
 ## Typing
 
 - [TypedDict vs dataclasses](https://dev.to/meeshkan/typeddict-vs-dataclasses-in-python-epic-typing-battle-onb)

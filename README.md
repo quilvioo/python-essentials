@@ -10,6 +10,7 @@
 
 ## Typing
 
+- [How to Use TypedDict](https://adamj.eu/tech/2021/05/10/python-type-hints-how-to-use-typeddict/)
 - [TypedDict vs dataclasses](https://dev.to/meeshkan/typeddict-vs-dataclasses-in-python-epic-typing-battle-onb)
 
 ## Loops
@@ -28,7 +29,7 @@
 ## Webscraping
 
 - [Mechanize](https://mechanize.readthedocs.io/en/latest/)
-- [Selenium]()
+- [Selenium](https://www.selenium.dev/documentation/)
 - [different web scraping packages](https://www.reddit.com/r/learnpython/comments/35um2a/which_web_scraping_package_to_use_and_what_are/)
 - [mechanize vs selenium](https://www.reddit.com/r/learnpython/comments/3658w5/when_to_use_requestsmechanizeselenium/)
 - [Getting Started](http://automatetheboringstuff.com/2e/chapter12/)

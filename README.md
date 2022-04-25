@@ -1,5 +1,9 @@
 # Python Essential Concepts
 
+## Best Practices
+
+- [Best Practices for Python](https://gist.github.com/sloria/7001839)
+
 ## Python Objects
 
 - [Iterables, Generators, and yield](https://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do): iterables are stored in memory, while generators are iterables you can only iterate over once because they generate values. yield is like return but will return a generator. Handy for when you are generating a large list of numbers, you know you will only be using once.

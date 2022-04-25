@@ -26,6 +26,10 @@
 - [Try, Except, Else, Finally](https://note.nkmk.me/en/python-try-except-else-finally/): try to run a chunk of code and deal with any exceptions appropriately. Else is what will run next if no error is caught. Finally is ran whether an error is caught or not.
 - [with statement](https://www.geeksforgeeks.org/with-statement-in-python/)
 
+## Structuring a Project
+
+- [Structuring Your Project¶](https://docs.python-guide.org/writing/structure/)
+
 ## Webscraping
 
 - [Mechanize](https://mechanize.readthedocs.io/en/latest/)
